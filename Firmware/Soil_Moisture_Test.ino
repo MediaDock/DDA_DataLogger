@@ -1,5 +1,5 @@
 #define SensorPIN A0 // pin of moisture sensor
-int PowerPIN = 6;
+int PowerPIN = 7;
 const int dry = 595; // value for dry sensor
 const int wet = 239; // value for wet sensor
 
