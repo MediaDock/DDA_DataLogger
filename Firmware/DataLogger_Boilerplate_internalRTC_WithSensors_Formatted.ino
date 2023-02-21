@@ -38,7 +38,7 @@
 
 // write every ... Seconds
 int MakeABreak = 10;  
-int PowerPIN = 6;
+int PowerPIN = 7;
 
 /* Realtime Clock Globals **************************************************************/
 #include <RTCCounter.h> // 1.0.1
